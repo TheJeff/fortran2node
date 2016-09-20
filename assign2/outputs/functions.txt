@@ -1,0 +1,4 @@
+Hyperbolic Sine Function Result: 1490.4788257895502
+Hyperbolic Cosine Function Result: 1490.4791612521778
+Euler's Function Result: 2980.957987041728
+Logarithmic Function Result: 2.0794415416798357
