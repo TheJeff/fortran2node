@@ -5,8 +5,6 @@ By: Jeffrey Nicholls */
 //Calculating Circumference Question
 
 //Listing libraries
-process.stdin.resume();
-process.stdin.setEncoding('utf8');
 var fs = require("fs");
 var prompt = require('prompt');
 
