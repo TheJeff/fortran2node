@@ -33,6 +33,6 @@ function done(){
 	writerStream.write("the temperature you converted was: "+deggyf+" to "+degc);
 	writerStream.end();
 	console.log("output has also been saved in DegreeC.txt");
-	console.log("Function Ceased");
+	console.log("Function Ceased weiners");
 	process.exit;
 }
